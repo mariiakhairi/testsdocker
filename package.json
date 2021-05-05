@@ -1,0 +1,23 @@
+{
+  "name": "testsdocker",
+  "version": "1.0.0",
+  "description": "my test",
+  "main": "index.js",
+  "scripts": {
+    "open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariiakhairi/testsdocker.git"
+  },
+  "author": "m.khairi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariiakhairi/testsdocker/issues"
+  },
+  "homepage": "https://github.com/mariiakhairi/testsdocker#readme",
+  "dependencies": {
+    "cypress": "^7.2.0",
+    "prettier": "^2.2.1"
+  }
+}
