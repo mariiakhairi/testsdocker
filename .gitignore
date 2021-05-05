@@ -49,3 +49,4 @@ m4/lt~obsolete.m4
 Makefile
 node_modules
 
+cypress/integration/.DS_Store
